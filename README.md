@@ -1,6 +1,3 @@
-The uploaded file appears to be a Jupyter Notebook focused on Facial Expression Recognition (FER) using TensorFlow/Keras. Based on this, here is a tailored README for the project repository:
-
----
 
 # Facial Expression Recognition (FER)
 
@@ -101,4 +98,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you'd like to add or customize specific sections.
