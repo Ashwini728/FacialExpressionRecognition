@@ -79,22 +79,7 @@ dataset/
 - Batch Size: 64
 - Epochs: 50
 
-## Usage
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/facial-expression-recognition.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd facial-expression-recognition
-   ```
-3. Set up the dataset as per the directory structure.
-4. Open the notebook:
-   ```bash
-   jupyter notebook FacialExpressionRecognition.ipynb
-   ```
-5. Execute the cells to train and evaluate the model.
 
 ## Results
 
